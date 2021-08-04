@@ -12,7 +12,7 @@ The Purpose of this analysis is to convince investors that a bike-sharing progra
 
 Tableau Dashboard and Storyboard: [link to Tableau Viz](https://public.tableau.com/views/NYCbikeshare_16280402592470/NYCstory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Data Sources: citibike_data.csv cleaned
+Data Sources: citibike_data.csv cleaned - too big to load it here. 
 
 # _Results_
 
