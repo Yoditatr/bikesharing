@@ -47,8 +47,18 @@ Anlayzing this segment I have found out that the majority of riders are commuter
 
 ## Top Starting Locations 
 
-Next, I have used the data to find the most popular stations in the city for starting a bike journey. As shown in the symbol map the bigger and bolder the circe the higher the pickup spot for the bicks.
+Next, I have used the data to find the most popular stations in the city for starting a bike journey, and narrowed down the analysis by usertype. As shown in the symbol map the bigger and bolder the circle the higher the pickup spot for the bikes.
 
 ![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Top%20start%20location%20by%20user.PNG?raw=true)
 
+## Top ending Locations 
+
+Now we know where customers are beginning their bike rental journeys. It's time to analyze where do they drop off the bikes? Similarly, as shown in the symbol map the bigger and bolder the circle the higher the pickup spot for the bikes.
+
+![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Top%20ending%20location%20by%20user.PNG?raw=true)
+
 ## Gender breakdown
+
+Finally I wanted to show the Gender breakdown of riders here. 
+
+![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Gender%20Breakdown.PNG?raw=true)
