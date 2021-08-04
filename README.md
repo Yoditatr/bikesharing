@@ -31,5 +31,11 @@ Similary, I have undertaken the analysis for the checkout time by Gender, and th
 The peak hours of bake utilization during weekdays are between 6am-9am and between 5pm-8pm. During the weekend, users have consisten usage of rides (average of 30k and less) between 9am - 7pm. 
  
 ![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Image/Trips%20by%20weekday%20per%20hour.PNG?raw=true)
-  
-  
+
+##  Trips by Gender (Weekday per Hour)
+
+Not suprisingly Males have taken the majority of the rides and it is between the 6am-9am and between 5pm-8pm for the weekdays and 9am - 7pm during weekends. The same pattern was seen for female riders except that the volume of rides is much less than the male riders. For the unknow gender type, compared to the whole data set, few riders were there to comeup with a concrete analysis. These riders could perhaps be tourists whose gender profiles isn't available.  
+
+![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Image/Trips%20by%20gender%20by%20weekday%20per%20hour.PNG?raw=true)
+
+
