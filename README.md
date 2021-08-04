@@ -10,9 +10,9 @@ The Purpose of this analysis is to convince investors that a bike-sharing progra
 
 ## Data Cleaning 
 
-Before I begin the analysis I will convert the datatype of the "tripduration" column from an integer to a datetime datatype to get the time in hours and minutes by using Pandas in jupyter notebook. Becuase using Tableau instead of Pandas to change the datatype of the "tripduration" column to a "Date and Time" may take more time and might be less effective. 
+Before I had began the analysis I will convert the datatype of the "tripduration" column from an integer to a datetime datatype to get the time in hours and minutes by using Pandas in jupyter notebook. Becuase using Tableau instead of Pandas to change the datatype of the "tripduration" column to a "Date and Time" may take more time and might be less effective. 
 
-![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/DF.PNG?raw=true)
+![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Image/DF.PNG?raw=true)
 
 ## Checkout Times for Users
 
