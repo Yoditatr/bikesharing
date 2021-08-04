@@ -71,7 +71,7 @@ Finally, in the visualization section of my analysis, I wanted to show the Gende
 
 As detailed above the majority of riders are subscribers and commuters who are most likely to take these rides in a day to day commutes. Hence, for our business proposal starting the rideshare business at the center of the city and close to train, bus station, and downtown areas where there is a high turnout of people commuting to and from. 
 
-The data also shows high activity of the bike sharing service in New York during the month of August 2019.The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
+The data also shows high activity of the bike sharing service in New York during the month of August 2019.The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours, which reinforces our analysis of Citi Bike services being used as an alternative to public transportation by commuting workers.
 
 Additional analysis would be beneficial by :
 
