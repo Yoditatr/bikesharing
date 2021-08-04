@@ -8,6 +8,12 @@
 
 The Purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis. Hence, using August 2019 data from New York City's Citi Bike-Sharing Program as my case study I have made a tableau worksheet analysis and storyboard to convice that the idea of bikesharing is a profitable business in the city. 
 
+## Resources
+
+Tableau Dashboard and Storyboard: [link to Tableau Viz](https://public.tableau.com/views/NYCbikeshare_16280402592470/NYCstory?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+Data Sources: citibike_data.csv cleaned
+
 # _Results_
 
 ## Data Cleaning 
