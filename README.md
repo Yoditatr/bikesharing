@@ -38,4 +38,9 @@ Not suprisingly Males have taken the majority of the rides and it is between the
 
 ![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Image/Trips%20by%20gender%20by%20weekday%20per%20hour.PNG?raw=true)
 
+## User Trips by Gender by Weekday
 
+Anlayzine this segment I have found out that the majority of riders are commuters and are more likely to take the citi bikes on a day to day basis. We have 1.9 million subscribers compared to just over 400k non subscribing riders. As known the majority of the rides here are by subsicribing male riders, and here the unknown gender rides being non subscribing customers strengthens our assumption of these riders being tourists whose profiles aren't being available or left blank. 
+
+
+![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Image/Trips%20by%20gender%20by%20weekday.PNG?raw=true)
