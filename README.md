@@ -44,3 +44,11 @@ Anlayzing this segment I have found out that the majority of riders are commuter
 
 
 ![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Image/Trips%20by%20gender%20by%20weekday.PNG?raw=true)
+
+## Top Starting Locations 
+
+Next, I have used the data to find the most popular stations in the city for starting a bike journey. As shown in the symbol map the bigger and bolder the circe the higher the pickup spot for the bicks.
+
+![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Top%20start%20location%20by%20user.PNG?raw=true)
+
+## Gender breakdown
