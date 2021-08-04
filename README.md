@@ -1,6 +1,6 @@
 # _Des Moines Iowa Bikesharing Program Proposal_
 
-![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Citibike.jpg?raw=true)
+![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Image/Citibike.jpg?raw=true)
 
 # _Overview of the analysis_
 
