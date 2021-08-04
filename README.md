@@ -25,3 +25,11 @@ When analyzing the NYC citibike data to figure out a specific trip duration (mea
 Similary, I have undertaken the analysis for the checkout time by Gender, and the results are consistent to the checkout by users analysis and the majority of the trips have taken under 30 minutes. But, generally males have taken the enormous majority of the trips than the female or the unknown gender had.  
 
 ![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Image/Checkout%20times%20by%20Gender.PNG?raw=true)
+
+## Trip by Weekday per Hour
+
+The peak hours of bake utilization during weekdays are between 6am-9am and between 5pm-8pm. During the weekend, users have consisten usage of rides (average of 30k and less) between 9am - 7pm. 
+ 
+![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Image/Trips%20by%20weekday%20per%20hour.PNG?raw=true)
+  
+  
