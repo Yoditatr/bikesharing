@@ -4,6 +4,8 @@
 
 # _Overview of the analysis_
 
+## Purpose
+
 The Purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis. Hence, using August 2019 data from New York City's Citi Bike-Sharing Program as my case study I have made a tableau worksheet analysis and storyboard to convice that the idea of bikesharing is a profitable business in the city. 
 
 # _Results_
@@ -62,3 +64,16 @@ Now we know where customers are beginning their bike rental journeys. It's time 
 Finally, in the visualization section of my analysis, I wanted to show the Gender breakdown of riders here. 
 
 ![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Gender%20Breakdown.PNG?raw=true)
+
+# _Summary_ 
+
+## Summary of the analysis and future suggestions
+
+As detailed above the majority of riders are subscribers and commuters who are most likely to take these rides in a day to day commutes. Hence, for our business proposal starting the rideshare business at the center of the city and close to train, bus station, and downtown areas where there is a high turnout of people commuting to and from. 
+
+The data also shows high activity of the bike sharing service in New York during the month of August 2019.The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
+
+Additional analysis would be beneficial by :
+
+- comparing data for different months to determine trends across the year,
+- including weather data to find the correlation between the weather and the rides.
