@@ -59,6 +59,6 @@ Now we know where customers are beginning their bike rental journeys. It's time 
 
 ## Gender breakdown
 
-Finally I wanted to show the Gender breakdown of riders here. 
+Finally, in the visualization section of my analysis, I wanted to show the Gender breakdown of riders here. 
 
 ![alt text](https://github.com/Yoditatr/bikesharing/blob/main/Image/Gender%20Breakdown.PNG?raw=true)
